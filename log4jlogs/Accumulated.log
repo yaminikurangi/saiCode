@@ -1,0 +1,689 @@
+2024-07-06 14:01:41,928 [main] INFO Swap_Login_Test1 - openBrowser action is started
+2024-07-06 14:01:43,990 [main] INFO Swap_Login_Test1 - Chrome launched successfully
+2024-07-06 14:01:43,992 [main] INFO Swap_Login_Test1 - Enter the URL action is started
+2024-07-06 14:01:44,714 [main] INFO Swap_Login_Test1 - https://www.saucedemo.com/ opened successfully
+2024-07-06 14:01:44,773 [main] INFO Swap_Login_Page1 - highlightElement action is started
+2024-07-06 14:01:44,774 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:01:44,774 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:01:44,829 [main] INFO Swap_Login_Page1 - highlightElement action is Completed
+2024-07-06 14:01:44,830 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:01:44,830 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:01:45,905 [main] INFO Swap_Login_Test1 - openBrowser action is started
+2024-07-06 14:01:47,123 [main] INFO Swap_Login_Test1 - Chrome launched successfully
+2024-07-06 14:01:47,123 [main] INFO Swap_Login_Test1 - Enter the URL action is started
+2024-07-06 14:01:47,852 [main] INFO Swap_Login_Test1 - https://www.saucedemo.com/ opened successfully
+2024-07-06 14:01:47,860 [main] INFO Swap_Login_Page1 - highlightElement action is started
+2024-07-06 14:01:47,860 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:01:47,861 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:01:47,910 [main] INFO Swap_Login_Page1 - highlightElement action is Completed
+2024-07-06 14:01:47,911 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:01:47,912 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:02:55,500 [main] INFO Swap_Login_Test1 - openBrowser action is started
+2024-07-06 14:02:57,452 [main] INFO Swap_Login_Test1 - Chrome launched successfully
+2024-07-06 14:02:57,452 [main] INFO Swap_Login_Test1 - Enter the URL action is started
+2024-07-06 14:02:57,932 [main] INFO Swap_Login_Test1 - https://www.saucedemo.com/ opened successfully
+2024-07-06 14:02:57,984 [main] INFO Swap_Login_Page1 - highlightElement action is started
+2024-07-06 14:02:57,985 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:02:57,986 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:02:58,032 [main] INFO Swap_Login_Page1 - highlightElement action is Completed
+2024-07-06 14:02:58,033 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:02:58,033 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:02:59,056 [main] INFO Swap_Login_Test1 - openBrowser action is started
+2024-07-06 14:03:00,283 [main] INFO Swap_Login_Test1 - Chrome launched successfully
+2024-07-06 14:03:00,284 [main] INFO Swap_Login_Test1 - Enter the URL action is started
+2024-07-06 14:03:00,762 [main] INFO Swap_Login_Test1 - https://www.saucedemo.com/ opened successfully
+2024-07-06 14:03:00,770 [main] INFO Swap_Login_Page1 - highlightElement action is started
+2024-07-06 14:03:00,771 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:03:00,776 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:03:00,836 [main] INFO Swap_Login_Page1 - highlightElement action is Completed
+2024-07-06 14:03:00,837 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:03:00,837 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:03:53,092 [main] INFO Swap_Login_Test1 - openBrowser action is started
+2024-07-06 14:03:55,047 [main] INFO Swap_Login_Test1 - Chrome launched successfully
+2024-07-06 14:03:55,047 [main] INFO Swap_Login_Test1 - Enter the URL action is started
+2024-07-06 14:03:55,779 [main] INFO Swap_Login_Test1 - https://www.saucedemo.com/ opened successfully
+2024-07-06 14:03:55,831 [main] INFO Swap_Login_Page1 - highlightElement action is started
+2024-07-06 14:03:55,832 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:03:55,833 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:03:55,892 [main] INFO Swap_Login_Page1 - highlightElement action is Completed
+2024-07-06 14:03:55,892 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:03:55,893 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:03:56,970 [main] INFO Swap_Login_Test1 - openBrowser action is started
+2024-07-06 14:03:58,196 [main] INFO Swap_Login_Test1 - Chrome launched successfully
+2024-07-06 14:03:58,197 [main] INFO Swap_Login_Test1 - Enter the URL action is started
+2024-07-06 14:03:58,855 [main] INFO Swap_Login_Test1 - https://www.saucedemo.com/ opened successfully
+2024-07-06 14:03:58,861 [main] INFO Swap_Login_Page1 - highlightElement action is started
+2024-07-06 14:03:58,861 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:03:58,863 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:03:58,924 [main] INFO Swap_Login_Page1 - highlightElement action is Completed
+2024-07-06 14:03:58,925 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:03:58,925 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:05:05,464 [main] INFO Swap_Login_Test1 - openBrowser action is started
+2024-07-06 14:05:07,400 [main] INFO Swap_Login_Test1 - Chrome launched successfully
+2024-07-06 14:05:07,401 [main] INFO Swap_Login_Test1 - Enter the URL action is started
+2024-07-06 14:05:07,899 [main] INFO Swap_Login_Test1 - https://www.saucedemo.com/ opened successfully
+2024-07-06 14:05:07,961 [main] INFO Swap_Login_Page1 - highlightElement action is started
+2024-07-06 14:05:07,962 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:05:07,963 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:05:08,024 [main] INFO Swap_Login_Page1 - highlightElement action is Completed
+2024-07-06 14:05:08,025 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:05:08,026 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:05:09,083 [main] INFO Swap_Login_Test1 - openBrowser action is started
+2024-07-06 14:05:10,307 [main] INFO Swap_Login_Test1 - Chrome launched successfully
+2024-07-06 14:05:10,308 [main] INFO Swap_Login_Test1 - Enter the URL action is started
+2024-07-06 14:05:10,943 [main] INFO Swap_Login_Test1 - https://www.saucedemo.com/ opened successfully
+2024-07-06 14:05:10,955 [main] INFO Swap_Login_Page1 - highlightElement action is started
+2024-07-06 14:05:10,955 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:05:10,957 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:05:11,005 [main] INFO Swap_Login_Page1 - highlightElement action is Completed
+2024-07-06 14:05:11,006 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:05:11,006 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:06:19,702 [main] INFO Swap_Login_Test1 - openBrowser action is started
+2024-07-06 14:06:21,658 [main] INFO Swap_Login_Test1 - Chrome launched successfully
+2024-07-06 14:06:21,659 [main] INFO Swap_Login_Test1 - Enter the URL action is started
+2024-07-06 14:06:22,456 [main] INFO Swap_Login_Test1 - https://www.saucedemo.com/ opened successfully
+2024-07-06 14:06:22,499 [main] INFO Swap_Login_Page1 - highlightElement action is started
+2024-07-06 14:06:22,500 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:06:22,500 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:06:22,550 [main] INFO Swap_Login_Page1 - highlightElement action is Completed
+2024-07-06 14:06:22,551 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:06:22,552 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:06:22,874 [main] INFO Swap_Login_Page1 - clear and enter data is : standard_user
+2024-07-06 14:06:22,875 [main] INFO Swap_Login_Page1 - clear and enter action is completed
+2024-07-06 14:06:22,875 [main] INFO Swap_Login_Page1 - highlightElement action is started
+2024-07-06 14:06:22,875 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:06:22,875 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:06:22,929 [main] INFO Swap_Login_Page1 - highlightElement action is Completed
+2024-07-06 14:06:22,931 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:06:22,931 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:06:23,143 [main] INFO Swap_Login_Page1 - clear and enter data is : secret_sauce
+2024-07-06 14:06:23,143 [main] INFO Swap_Login_Page1 - clear and enter action is completed
+2024-07-06 14:06:23,144 [main] INFO Swap_Login_Page1 - click action is started
+2024-07-06 14:06:23,144 [main] INFO Swap_Login_Page1 - highlightElement action is started
+2024-07-06 14:06:23,144 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:06:23,144 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:06:23,180 [main] INFO Swap_Login_Page1 - highlightElement action is Completed
+2024-07-06 14:06:23,180 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:06:23,180 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:06:23,263 [main] INFO Swap_Login_Page1 - click action is Completed
+2024-07-06 14:06:41,119 [main] INFO Swap_Login_Test1 - openBrowser action is started
+2024-07-06 14:06:43,032 [main] INFO Swap_Login_Test1 - Chrome launched successfully
+2024-07-06 14:06:43,032 [main] INFO Swap_Login_Test1 - Enter the URL action is started
+2024-07-06 14:06:43,692 [main] INFO Swap_Login_Test1 - https://www.saucedemo.com/ opened successfully
+2024-07-06 14:06:43,759 [main] INFO Swap_Login_Page1 - highlightElement action is started
+2024-07-06 14:06:43,760 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:06:43,761 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:06:43,815 [main] INFO Swap_Login_Page1 - highlightElement action is Completed
+2024-07-06 14:06:43,817 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:06:43,817 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:06:44,120 [main] INFO Swap_Login_Page1 - clear and enter data is : standard_user
+2024-07-06 14:06:44,120 [main] INFO Swap_Login_Page1 - clear and enter action is completed
+2024-07-06 14:06:44,120 [main] INFO Swap_Login_Page1 - highlightElement action is started
+2024-07-06 14:06:44,120 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:06:44,121 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:06:44,174 [main] INFO Swap_Login_Page1 - highlightElement action is Completed
+2024-07-06 14:06:44,175 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:06:44,175 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:06:44,402 [main] INFO Swap_Login_Page1 - clear and enter data is : secret_sauce
+2024-07-06 14:06:44,403 [main] INFO Swap_Login_Page1 - clear and enter action is completed
+2024-07-06 14:06:44,403 [main] INFO Swap_Login_Page1 - click action is started
+2024-07-06 14:06:44,403 [main] INFO Swap_Login_Page1 - highlightElement action is started
+2024-07-06 14:06:44,403 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:06:44,403 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:06:44,457 [main] INFO Swap_Login_Page1 - highlightElement action is Completed
+2024-07-06 14:06:44,457 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:06:44,458 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:06:44,541 [main] INFO Swap_Login_Page1 - click action is Completed
+2024-07-06 14:09:20,663 [main] INFO Swap_Login_Test1 - openBrowser action is started
+2024-07-06 14:09:22,613 [main] INFO Swap_Login_Test1 - Chrome launched successfully
+2024-07-06 14:09:22,613 [main] INFO Swap_Login_Test1 - Enter the URL action is started
+2024-07-06 14:09:23,108 [main] INFO Swap_Login_Test1 - https://www.saucedemo.com/ opened successfully
+2024-07-06 14:09:23,176 [main] INFO Swap_Login_Page1 - enter data action is started
+2024-07-06 14:09:23,177 [main] INFO Swap_Login_Page1 - highlightElement action is started
+2024-07-06 14:09:23,178 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:09:23,179 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:09:23,241 [main] INFO Swap_Login_Page1 - highlightElement action is Completed
+2024-07-06 14:09:23,241 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:09:23,241 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:09:23,396 [main] INFO Swap_Login_Page1 - enter data action is Completed
+2024-07-06 14:09:23,397 [main] INFO Swap_Login_Page1 - enter data action is started
+2024-07-06 14:09:23,397 [main] INFO Swap_Login_Page1 - highlightElement action is started
+2024-07-06 14:09:23,398 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:09:23,398 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:09:23,454 [main] INFO Swap_Login_Page1 - highlightElement action is Completed
+2024-07-06 14:09:23,454 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:09:23,454 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:09:23,547 [main] INFO Swap_Login_Page1 - enter data action is Completed
+2024-07-06 14:09:23,547 [main] INFO Swap_Login_Page1 - click action is started
+2024-07-06 14:09:23,547 [main] INFO Swap_Login_Page1 - highlightElement action is started
+2024-07-06 14:09:23,548 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:09:23,548 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:09:23,592 [main] INFO Swap_Login_Page1 - highlightElement action is Completed
+2024-07-06 14:09:23,592 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:09:23,592 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:09:23,677 [main] INFO Swap_Login_Page1 - click action is Completed
+2024-07-06 14:09:43,280 [main] INFO Swap_Login_Test1 - openBrowser action is started
+2024-07-06 14:09:45,271 [main] INFO Swap_Login_Test1 - Chrome launched successfully
+2024-07-06 14:09:45,271 [main] INFO Swap_Login_Test1 - Enter the URL action is started
+2024-07-06 14:09:46,028 [main] INFO Swap_Login_Test1 - https://www.saucedemo.com/ opened successfully
+2024-07-06 14:09:46,091 [main] INFO Swap_Login_Page1 - enter data action is started
+2024-07-06 14:09:46,092 [main] INFO Swap_Login_Page1 - highlightElement action is started
+2024-07-06 14:09:46,093 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:09:46,093 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:09:46,153 [main] INFO Swap_Login_Page1 - highlightElement action is Completed
+2024-07-06 14:09:46,154 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:09:46,154 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:09:46,330 [main] INFO Swap_Login_Page1 - enter data action is Completed
+2024-07-06 14:09:46,330 [main] INFO Swap_Login_Page1 - enter data action is started
+2024-07-06 14:09:46,331 [main] INFO Swap_Login_Page1 - highlightElement action is started
+2024-07-06 14:09:46,331 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:09:46,332 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:09:46,389 [main] INFO Swap_Login_Page1 - highlightElement action is Completed
+2024-07-06 14:09:46,389 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:09:46,389 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:09:46,483 [main] INFO Swap_Login_Page1 - enter data action is Completed
+2024-07-06 14:09:46,484 [main] INFO Swap_Login_Page1 - click action is started
+2024-07-06 14:09:46,484 [main] INFO Swap_Login_Page1 - highlightElement action is started
+2024-07-06 14:09:46,484 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:09:46,484 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:09:46,512 [main] INFO Swap_Login_Page1 - highlightElement action is Completed
+2024-07-06 14:09:46,512 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:09:46,513 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:09:46,597 [main] INFO Swap_Login_Page1 - click action is Completed
+2024-07-06 14:12:51,437 [main] INFO Swap_Login_Test1 - openBrowser action is started
+2024-07-06 14:12:53,413 [main] INFO Swap_Login_Test1 - Chrome launched successfully
+2024-07-06 14:12:53,413 [main] INFO Swap_Login_Test1 - Enter the URL action is started
+2024-07-06 14:12:54,174 [main] INFO Swap_Login_Test1 - https://www.saucedemo.com/ opened successfully
+2024-07-06 14:12:54,241 [main] INFO Swap_Login_Page1 - enter data action is started
+2024-07-06 14:12:54,242 [main] INFO Swap_Login_Page1 - highlightElement action is started
+2024-07-06 14:12:54,243 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:12:54,243 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:12:54,291 [main] INFO Swap_Login_Page1 - highlightElement action is Completed
+2024-07-06 14:12:54,292 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:12:54,292 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:12:54,448 [main] INFO Swap_Login_Page1 - enter data action is Completed
+2024-07-06 14:12:57,462 [main] INFO Swap_Login_Page1 - enter data action is started
+2024-07-06 14:12:57,463 [main] INFO Swap_Login_Page1 - highlightElement action is started
+2024-07-06 14:12:57,463 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:12:57,463 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:12:57,521 [main] INFO Swap_Login_Page1 - highlightElement action is Completed
+2024-07-06 14:12:57,522 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:12:57,522 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:12:57,632 [main] INFO Swap_Login_Page1 - enter data action is Completed
+2024-07-06 14:13:00,637 [main] INFO Swap_Login_Page1 - click action is started
+2024-07-06 14:13:00,637 [main] INFO Swap_Login_Page1 - highlightElement action is started
+2024-07-06 14:13:00,638 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:13:00,638 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:13:00,677 [main] INFO Swap_Login_Page1 - highlightElement action is Completed
+2024-07-06 14:13:00,678 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 14:13:00,678 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 14:13:00,768 [main] INFO Swap_Login_Page1 - click action is Completed
+2024-07-06 16:56:16,263 [main] INFO Swap_Login_Test1 - openBrowser action is started
+2024-07-06 16:56:18,262 [main] INFO Swap_Login_Test1 - Chrome launched successfully
+2024-07-06 16:56:18,262 [main] INFO Swap_Login_Test1 - Enter the URL action is started
+2024-07-06 16:56:19,080 [main] INFO Swap_Login_Test1 - https://www.saucedemo.com/ opened successfully
+2024-07-06 16:56:19,197 [main] INFO Swap_Login_Page1 - enter data action is started
+2024-07-06 16:56:19,198 [main] INFO Swap_Login_Page1 - highlightElement action is started
+2024-07-06 16:56:19,198 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 16:56:19,199 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 16:56:19,270 [main] INFO Swap_Login_Page1 - highlightElement action is Completed
+2024-07-06 16:56:19,270 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 16:56:19,271 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 16:56:19,411 [main] INFO Swap_Login_Page1 - enter data action is Completed
+2024-07-06 16:56:22,427 [main] INFO Swap_Login_Page1 - enter data action is started
+2024-07-06 16:56:22,427 [main] INFO Swap_Login_Page1 - highlightElement action is started
+2024-07-06 16:56:22,427 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 16:56:22,427 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 16:56:22,484 [main] INFO Swap_Login_Page1 - highlightElement action is Completed
+2024-07-06 16:56:22,485 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 16:56:22,485 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 16:56:22,574 [main] INFO Swap_Login_Page1 - enter data action is Completed
+2024-07-06 16:56:25,583 [main] INFO Swap_Login_Page1 - click action is started
+2024-07-06 16:56:25,583 [main] INFO Swap_Login_Page1 - highlightElement action is started
+2024-07-06 16:56:25,583 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 16:56:25,583 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 16:56:25,622 [main] INFO Swap_Login_Page1 - highlightElement action is Completed
+2024-07-06 16:56:25,623 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 16:56:25,623 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 16:56:25,709 [main] INFO Swap_Login_Page1 - click action is Completed
+2024-07-06 21:46:09,763 [main] INFO Swap_Login_Test1 - openBrowser action is started
+2024-07-06 21:46:12,215 [main] INFO Swap_Login_Test1 - Chrome launched successfully
+2024-07-06 21:46:12,216 [main] INFO Swap_Login_Test1 - Enter the URL action is started
+2024-07-06 21:46:45,764 [main] INFO Swap_Login_Test1 - openBrowser action is started
+2024-07-06 21:46:48,107 [main] INFO Swap_Login_Test1 - Chrome launched successfully
+2024-07-06 21:46:48,108 [main] INFO Swap_Login_Test1 - Enter the URL action is started
+2024-07-06 21:46:48,366 [main] INFO Swap_Login_Test1 - https://www.saucedemo.com/ opened successfully
+2024-07-06 21:46:48,433 [main] INFO Swap_Login_Page1 - enter data action is started
+2024-07-06 21:46:48,434 [main] INFO Swap_Login_Page1 - highlightElement action is started
+2024-07-06 21:46:48,435 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 21:46:48,436 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 21:46:49,566 [main] INFO Swap_Login_Page1 - highlightElement action is Completed
+2024-07-06 21:46:49,567 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 21:46:49,625 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 21:46:49,759 [main] INFO Swap_Login_Page1 - enter data action is Completed
+2024-07-06 21:46:52,766 [main] INFO Swap_Login_Page1 - enter data action is started
+2024-07-06 21:46:52,767 [main] INFO Swap_Login_Page1 - highlightElement action is started
+2024-07-06 21:46:52,767 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 21:46:52,767 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 21:46:52,820 [main] INFO Swap_Login_Page1 - highlightElement action is Completed
+2024-07-06 21:46:52,821 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 21:46:52,821 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 21:46:52,912 [main] INFO Swap_Login_Page1 - enter data action is Completed
+2024-07-06 21:46:55,927 [main] INFO Swap_Login_Page1 - click action is started
+2024-07-06 21:46:55,927 [main] INFO Swap_Login_Page1 - highlightElement action is started
+2024-07-06 21:46:55,929 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 21:46:55,929 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 21:46:55,999 [main] INFO Swap_Login_Page1 - highlightElement action is Completed
+2024-07-06 21:46:55,999 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 21:46:56,000 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 21:46:56,106 [main] INFO Swap_Login_Page1 - click action is Completed
+2024-07-06 21:48:22,133 [main] INFO Swap_Login_Test1 - openBrowser action is started
+2024-07-06 21:48:24,213 [main] INFO Swap_Login_Test1 - Chrome launched successfully
+2024-07-06 21:48:24,214 [main] INFO Swap_Login_Test1 - Enter the URL action is started
+2024-07-06 21:48:24,915 [main] INFO Swap_Login_Test1 - https://www.saucedemo.com/ opened successfully
+2024-07-06 21:48:24,968 [main] INFO Swap_Login_Page1 - enter data action is started
+2024-07-06 21:48:24,969 [main] INFO Swap_Login_Page1 - highlightElement action is started
+2024-07-06 21:48:24,969 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 21:48:24,970 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 21:48:25,021 [main] INFO Swap_Login_Page1 - highlightElement action is Completed
+2024-07-06 21:48:25,021 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 21:48:25,021 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 21:48:25,170 [main] INFO Swap_Login_Page1 - enter data action is Completed
+2024-07-06 21:48:28,177 [main] INFO Swap_Login_Page1 - enter data action is started
+2024-07-06 21:48:28,177 [main] INFO Swap_Login_Page1 - highlightElement action is started
+2024-07-06 21:48:28,177 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 21:48:28,178 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 21:48:28,216 [main] INFO Swap_Login_Page1 - highlightElement action is Completed
+2024-07-06 21:48:28,217 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 21:48:28,217 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 21:48:28,309 [main] INFO Swap_Login_Page1 - enter data action is Completed
+2024-07-06 21:48:31,311 [main] INFO Swap_Login_Page1 - click action is started
+2024-07-06 21:48:31,311 [main] INFO Swap_Login_Page1 - highlightElement action is started
+2024-07-06 21:48:31,311 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 21:48:31,312 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 21:48:31,369 [main] INFO Swap_Login_Page1 - highlightElement action is Completed
+2024-07-06 21:48:31,370 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 21:48:31,370 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 21:48:31,448 [main] INFO Swap_Login_Page1 - click action is Completed
+2024-07-06 21:49:22,194 [main] INFO Swap_Login_Test1 - openBrowser action is started
+2024-07-06 21:49:24,417 [main] INFO Swap_Login_Test1 - Chrome launched successfully
+2024-07-06 21:49:24,417 [main] INFO Swap_Login_Test1 - Enter the URL action is started
+2024-07-06 21:49:28,382 [main] INFO Swap_Login_Test1 - https://www.saucedemo.com/ opened successfully
+2024-07-06 21:49:28,457 [main] INFO Swap_Login_Page1 - enter data action is started
+2024-07-06 21:49:28,458 [main] INFO Swap_Login_Page1 - highlightElement action is started
+2024-07-06 21:49:28,458 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 21:49:28,460 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 21:49:28,512 [main] INFO Swap_Login_Page1 - highlightElement action is Completed
+2024-07-06 21:49:28,513 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 21:49:28,514 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 21:49:28,664 [main] INFO Swap_Login_Page1 - enter data action is Completed
+2024-07-06 21:49:31,676 [main] INFO Swap_Login_Page1 - enter data action is started
+2024-07-06 21:49:31,676 [main] INFO Swap_Login_Page1 - highlightElement action is started
+2024-07-06 21:49:31,677 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 21:49:31,677 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 21:49:31,742 [main] INFO Swap_Login_Page1 - highlightElement action is Completed
+2024-07-06 21:49:31,742 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 21:49:31,743 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 21:49:31,845 [main] INFO Swap_Login_Page1 - enter data action is Completed
+2024-07-06 21:49:34,851 [main] INFO Swap_Login_Page1 - click action is started
+2024-07-06 21:49:34,851 [main] INFO Swap_Login_Page1 - highlightElement action is started
+2024-07-06 21:49:34,852 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 21:49:34,853 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 21:49:34,909 [main] INFO Swap_Login_Page1 - highlightElement action is Completed
+2024-07-06 21:49:34,910 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 21:49:34,910 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 21:49:35,082 [main] INFO Swap_Login_Page1 - click action is Completed
+2024-07-06 21:51:07,980 [main] INFO Swap_Login_Test1 - openBrowser action is started
+2024-07-06 21:51:10,215 [main] INFO Swap_Login_Test1 - Chrome launched successfully
+2024-07-06 21:51:10,215 [main] INFO Swap_Login_Test1 - Enter the URL action is started
+2024-07-06 21:51:10,299 [main] INFO Swap_Login_Test1 - https://www.saucedemo.com/ opened successfully
+2024-07-06 21:51:10,382 [main] INFO Swap_Login_Page1 - enter data action is started
+2024-07-06 21:51:10,383 [main] INFO Swap_Login_Page1 - highlightElement action is started
+2024-07-06 21:51:10,383 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 21:51:10,384 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 21:51:11,318 [main] INFO Swap_Login_Page1 - highlightElement action is Completed
+2024-07-06 21:51:11,319 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 21:51:11,319 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 21:51:11,471 [main] INFO Swap_Login_Page1 - enter data action is Completed
+2024-07-06 21:51:14,482 [main] INFO Swap_Login_Page1 - enter data action is started
+2024-07-06 21:51:14,482 [main] INFO Swap_Login_Page1 - highlightElement action is started
+2024-07-06 21:51:14,483 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 21:51:14,483 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 21:51:14,541 [main] INFO Swap_Login_Page1 - highlightElement action is Completed
+2024-07-06 21:51:14,541 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 21:51:14,542 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 21:51:14,643 [main] INFO Swap_Login_Page1 - enter data action is Completed
+2024-07-06 21:51:17,650 [main] INFO Swap_Login_Page1 - click action is started
+2024-07-06 21:51:17,650 [main] INFO Swap_Login_Page1 - highlightElement action is started
+2024-07-06 21:51:17,650 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 21:51:17,651 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 21:51:17,707 [main] INFO Swap_Login_Page1 - highlightElement action is Completed
+2024-07-06 21:51:17,707 [main] INFO Swap_Login_Page1 - find element action is started
+2024-07-06 21:51:17,707 [main] INFO Swap_Login_Page1 - find element action is complted and avialable
+2024-07-06 21:51:17,831 [main] INFO Swap_Login_Page1 - click action is Completed
+2024-07-09 10:54:10,325 [main] INFO Para_Bank_Test - openBrowser action is started
+2024-07-09 10:54:12,594 [main] INFO Para_Bank_Test - Chrome launched successfully
+2024-07-09 10:54:12,595 [main] INFO Para_Bank_Test - Enter the URL action is started
+2024-07-09 10:54:13,733 [main] INFO Para_Bank_Test - https://www.saucedemo.com/ opened successfully
+2024-07-09 10:54:13,805 [main] INFO Para_Bank_Page - enter data action is started
+2024-07-09 10:54:13,806 [main] INFO Para_Bank_Page - highlightElement action is started
+2024-07-09 10:54:13,806 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 10:54:13,807 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 10:56:10,942 [main] INFO Para_Bank_Test - openBrowser action is started
+2024-07-09 10:56:13,036 [main] INFO Para_Bank_Test - Chrome launched successfully
+2024-07-09 10:56:13,037 [main] INFO Para_Bank_Test - Enter the URL action is started
+2024-07-09 10:56:45,108 [main] INFO Para_Bank_Test - openBrowser action is started
+2024-07-09 10:56:47,131 [main] INFO Para_Bank_Test - Chrome launched successfully
+2024-07-09 10:56:47,132 [main] INFO Para_Bank_Test - Enter the URL action is started
+2024-07-09 10:57:54,658 [main] INFO Para_Bank_Test - openBrowser action is started
+2024-07-09 10:57:56,678 [main] INFO Para_Bank_Test - Chrome launched successfully
+2024-07-09 10:57:56,678 [main] INFO Para_Bank_Test - Enter the URL action is started
+2024-07-09 10:58:02,869 [main] INFO Para_Bank_Test - https://parabank.parasoft.com/parabank/index.htm opened successfully
+2024-07-09 10:58:02,942 [main] INFO Para_Bank_Page - enter data action is started
+2024-07-09 10:58:02,943 [main] INFO Para_Bank_Page - highlightElement action is started
+2024-07-09 10:58:02,944 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 10:58:02,945 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 10:58:42,123 [main] INFO Para_Bank_Test - openBrowser action is started
+2024-07-09 10:58:44,081 [main] INFO Para_Bank_Test - Chrome launched successfully
+2024-07-09 10:58:44,082 [main] INFO Para_Bank_Test - Enter the URL action is started
+2024-07-09 10:58:48,431 [main] INFO Para_Bank_Test - https://parabank.parasoft.com/parabank/index.htm opened successfully
+2024-07-09 10:58:48,550 [main] INFO Para_Bank_Page - click action is started
+2024-07-09 10:58:48,551 [main] INFO Para_Bank_Page - highlightElement action is started
+2024-07-09 10:58:48,551 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 10:58:48,552 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 10:58:48,630 [main] INFO Para_Bank_Page - highlightElement action is Completed
+2024-07-09 10:58:48,630 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 10:58:48,631 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 10:58:49,585 [main] INFO Para_Bank_Page - click action is Completed
+2024-07-09 10:58:49,586 [main] INFO Para_Bank_Page - enter data action is started
+2024-07-09 10:58:49,588 [main] INFO Para_Bank_Page - highlightElement action is started
+2024-07-09 10:58:49,589 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 10:58:49,591 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 10:58:49,686 [main] INFO Para_Bank_Page - highlightElement action is Completed
+2024-07-09 10:58:49,687 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 10:58:49,688 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 10:58:49,911 [main] INFO Para_Bank_Page - enter data action is Completed
+2024-07-09 10:58:49,911 [main] INFO Para_Bank_Page - enter data action is started
+2024-07-09 10:58:49,911 [main] INFO Para_Bank_Page - highlightElement action is started
+2024-07-09 10:58:49,911 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 10:58:49,911 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 10:58:49,965 [main] INFO Para_Bank_Page - highlightElement action is Completed
+2024-07-09 10:58:49,966 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 10:58:49,966 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 10:58:50,117 [main] INFO Para_Bank_Page - enter data action is Completed
+2024-07-09 10:58:50,118 [main] INFO Para_Bank_Page - enter data action is started
+2024-07-09 10:58:50,118 [main] INFO Para_Bank_Page - highlightElement action is started
+2024-07-09 10:58:50,119 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 10:58:50,119 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 10:58:50,185 [main] INFO Para_Bank_Page - highlightElement action is Completed
+2024-07-09 10:58:50,185 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 10:58:50,186 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 10:58:50,349 [main] INFO Para_Bank_Page - enter data action is Completed
+2024-07-09 10:58:50,350 [main] INFO Para_Bank_Page - enter data action is started
+2024-07-09 10:58:50,350 [main] INFO Para_Bank_Page - highlightElement action is started
+2024-07-09 10:58:50,350 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 10:58:50,350 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 10:58:50,403 [main] INFO Para_Bank_Page - highlightElement action is Completed
+2024-07-09 10:58:50,403 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 10:58:50,403 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 10:58:50,531 [main] INFO Para_Bank_Page - enter data action is Completed
+2024-07-09 10:58:50,531 [main] INFO Para_Bank_Page - enter data action is started
+2024-07-09 10:58:50,531 [main] INFO Para_Bank_Page - highlightElement action is started
+2024-07-09 10:58:50,532 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 10:58:50,532 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 10:58:50,558 [main] INFO Para_Bank_Page - highlightElement action is Completed
+2024-07-09 10:58:50,558 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 10:58:50,559 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 10:58:50,696 [main] INFO Para_Bank_Page - enter data action is Completed
+2024-07-09 10:58:50,697 [main] INFO Para_Bank_Page - enter data action is started
+2024-07-09 10:58:50,697 [main] INFO Para_Bank_Page - highlightElement action is started
+2024-07-09 10:58:50,697 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 10:58:50,697 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 10:58:50,752 [main] INFO Para_Bank_Page - highlightElement action is Completed
+2024-07-09 10:58:50,752 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 10:58:50,753 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 10:58:50,925 [main] INFO Para_Bank_Page - enter data action is Completed
+2024-07-09 10:58:50,925 [main] INFO Para_Bank_Page - enter data action is started
+2024-07-09 10:58:50,925 [main] INFO Para_Bank_Page - highlightElement action is started
+2024-07-09 10:58:50,926 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 10:58:50,926 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 10:58:50,986 [main] INFO Para_Bank_Page - highlightElement action is Completed
+2024-07-09 10:58:50,987 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 10:58:50,987 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 10:58:51,145 [main] INFO Para_Bank_Page - enter data action is Completed
+2024-07-09 10:58:51,146 [main] INFO Para_Bank_Page - click action is started
+2024-07-09 10:58:51,146 [main] INFO Para_Bank_Page - highlightElement action is started
+2024-07-09 10:58:51,146 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 10:58:51,146 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 10:58:51,198 [main] INFO Para_Bank_Page - highlightElement action is Completed
+2024-07-09 10:58:51,198 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 10:58:51,198 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 10:58:51,800 [main] INFO Para_Bank_Page - click action is Completed
+2024-07-09 11:00:02,179 [main] INFO Para_Bank_Test - openBrowser action is started
+2024-07-09 11:00:04,134 [main] INFO Para_Bank_Test - Chrome launched successfully
+2024-07-09 11:00:04,134 [main] INFO Para_Bank_Test - Enter the URL action is started
+2024-07-09 11:00:07,903 [main] INFO Para_Bank_Test - https://parabank.parasoft.com/parabank/index.htm opened successfully
+2024-07-09 11:00:07,984 [main] INFO Para_Bank_Page - click action is started
+2024-07-09 11:00:07,985 [main] INFO Para_Bank_Page - highlightElement action is started
+2024-07-09 11:00:07,987 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:00:07,988 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:00:08,042 [main] INFO Para_Bank_Page - highlightElement action is Completed
+2024-07-09 11:00:08,043 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:00:08,043 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:00:08,783 [main] INFO Para_Bank_Page - click action is Completed
+2024-07-09 11:00:08,785 [main] INFO Para_Bank_Page - enter data action is started
+2024-07-09 11:00:08,787 [main] INFO Para_Bank_Page - highlightElement action is started
+2024-07-09 11:00:08,787 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:00:08,788 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:00:08,849 [main] INFO Para_Bank_Page - highlightElement action is Completed
+2024-07-09 11:00:08,850 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:00:08,851 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:00:09,039 [main] INFO Para_Bank_Page - enter data action is Completed
+2024-07-09 11:00:09,040 [main] INFO Para_Bank_Page - enter data action is started
+2024-07-09 11:00:09,040 [main] INFO Para_Bank_Page - highlightElement action is started
+2024-07-09 11:00:09,040 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:00:09,040 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:00:09,102 [main] INFO Para_Bank_Page - highlightElement action is Completed
+2024-07-09 11:00:09,103 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:00:09,104 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:00:09,245 [main] INFO Para_Bank_Page - enter data action is Completed
+2024-07-09 11:00:09,246 [main] INFO Para_Bank_Page - enter data action is started
+2024-07-09 11:00:09,246 [main] INFO Para_Bank_Page - highlightElement action is started
+2024-07-09 11:00:09,246 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:00:09,247 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:00:09,306 [main] INFO Para_Bank_Page - highlightElement action is Completed
+2024-07-09 11:00:09,307 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:00:09,307 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:00:09,461 [main] INFO Para_Bank_Page - enter data action is Completed
+2024-07-09 11:00:09,461 [main] INFO Para_Bank_Page - enter data action is started
+2024-07-09 11:00:09,462 [main] INFO Para_Bank_Page - highlightElement action is started
+2024-07-09 11:00:09,462 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:00:09,463 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:00:09,524 [main] INFO Para_Bank_Page - highlightElement action is Completed
+2024-07-09 11:00:09,525 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:00:09,525 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:00:09,719 [main] INFO Para_Bank_Page - enter data action is Completed
+2024-07-09 11:00:09,720 [main] INFO Para_Bank_Page - enter data action is started
+2024-07-09 11:00:09,720 [main] INFO Para_Bank_Page - highlightElement action is started
+2024-07-09 11:00:09,721 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:00:09,721 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:00:09,775 [main] INFO Para_Bank_Page - highlightElement action is Completed
+2024-07-09 11:00:09,775 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:00:09,776 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:00:09,977 [main] INFO Para_Bank_Page - enter data action is Completed
+2024-07-09 11:00:09,978 [main] INFO Para_Bank_Page - enter data action is started
+2024-07-09 11:00:09,978 [main] INFO Para_Bank_Page - highlightElement action is started
+2024-07-09 11:00:09,978 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:00:09,979 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:00:10,041 [main] INFO Para_Bank_Page - highlightElement action is Completed
+2024-07-09 11:00:10,042 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:00:10,042 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:00:10,230 [main] INFO Para_Bank_Page - enter data action is Completed
+2024-07-09 11:00:10,230 [main] INFO Para_Bank_Page - enter data action is started
+2024-07-09 11:00:10,230 [main] INFO Para_Bank_Page - highlightElement action is started
+2024-07-09 11:00:10,231 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:00:10,231 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:00:10,290 [main] INFO Para_Bank_Page - highlightElement action is Completed
+2024-07-09 11:00:10,290 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:00:10,290 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:00:10,472 [main] INFO Para_Bank_Page - enter data action is Completed
+2024-07-09 11:00:10,472 [main] INFO Para_Bank_Page - click action is started
+2024-07-09 11:00:10,473 [main] INFO Para_Bank_Page - highlightElement action is started
+2024-07-09 11:00:10,473 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:00:10,473 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:00:10,521 [main] INFO Para_Bank_Page - highlightElement action is Completed
+2024-07-09 11:00:10,521 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:00:10,521 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:00:11,929 [main] INFO Para_Bank_Page - click action is Completed
+2024-07-09 11:03:14,460 [main] INFO Para_Bank_Test - openBrowser action is started
+2024-07-09 11:03:16,573 [main] INFO Para_Bank_Test - Chrome launched successfully
+2024-07-09 11:03:16,574 [main] INFO Para_Bank_Test - Enter the URL action is started
+2024-07-09 11:03:20,671 [main] INFO Para_Bank_Test - https://parabank.parasoft.com/parabank/index.htm opened successfully
+2024-07-09 11:03:20,765 [main] INFO Para_Bank_Page - click action is started
+2024-07-09 11:03:20,766 [main] INFO Para_Bank_Page - highlightElement action is started
+2024-07-09 11:03:20,766 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:03:20,767 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:03:20,835 [main] INFO Para_Bank_Page - highlightElement action is Completed
+2024-07-09 11:03:20,836 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:03:20,836 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:03:21,683 [main] INFO Para_Bank_Page - click action is Completed
+2024-07-09 11:03:21,685 [main] INFO Para_Bank_Page - enter data action is started
+2024-07-09 11:03:21,686 [main] INFO Para_Bank_Page - highlightElement action is started
+2024-07-09 11:03:21,687 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:03:21,688 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:03:21,799 [main] INFO Para_Bank_Page - highlightElement action is Completed
+2024-07-09 11:03:21,800 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:03:21,801 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:03:22,077 [main] INFO Para_Bank_Page - enter data action is Completed
+2024-07-09 11:03:22,078 [main] INFO Para_Bank_Page - enter data action is started
+2024-07-09 11:03:22,078 [main] INFO Para_Bank_Page - highlightElement action is started
+2024-07-09 11:03:22,078 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:03:22,079 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:03:22,130 [main] INFO Para_Bank_Page - highlightElement action is Completed
+2024-07-09 11:03:22,130 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:03:22,131 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:03:22,283 [main] INFO Para_Bank_Page - enter data action is Completed
+2024-07-09 11:03:22,283 [main] INFO Para_Bank_Page - enter data action is started
+2024-07-09 11:03:22,283 [main] INFO Para_Bank_Page - highlightElement action is started
+2024-07-09 11:03:22,284 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:03:22,284 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:03:22,346 [main] INFO Para_Bank_Page - highlightElement action is Completed
+2024-07-09 11:03:22,347 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:03:22,347 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:03:22,500 [main] INFO Para_Bank_Page - enter data action is Completed
+2024-07-09 11:03:22,500 [main] INFO Para_Bank_Page - enter data action is started
+2024-07-09 11:03:22,501 [main] INFO Para_Bank_Page - highlightElement action is started
+2024-07-09 11:03:22,501 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:03:22,502 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:03:22,551 [main] INFO Para_Bank_Page - highlightElement action is Completed
+2024-07-09 11:03:22,552 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:03:22,552 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:03:22,702 [main] INFO Para_Bank_Page - enter data action is Completed
+2024-07-09 11:03:22,703 [main] INFO Para_Bank_Page - enter data action is started
+2024-07-09 11:03:22,703 [main] INFO Para_Bank_Page - highlightElement action is started
+2024-07-09 11:03:22,703 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:03:22,703 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:03:22,754 [main] INFO Para_Bank_Page - highlightElement action is Completed
+2024-07-09 11:03:22,755 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:03:22,755 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:03:22,903 [main] INFO Para_Bank_Page - enter data action is Completed
+2024-07-09 11:03:22,904 [main] INFO Para_Bank_Page - enter data action is started
+2024-07-09 11:03:22,904 [main] INFO Para_Bank_Page - highlightElement action is started
+2024-07-09 11:03:22,905 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:03:22,905 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:03:22,958 [main] INFO Para_Bank_Page - highlightElement action is Completed
+2024-07-09 11:03:22,958 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:03:22,959 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:03:23,105 [main] INFO Para_Bank_Page - enter data action is Completed
+2024-07-09 11:03:23,106 [main] INFO Para_Bank_Page - enter data action is started
+2024-07-09 11:03:23,106 [main] INFO Para_Bank_Page - highlightElement action is started
+2024-07-09 11:03:23,106 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:03:23,107 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:03:23,142 [main] INFO Para_Bank_Page - highlightElement action is Completed
+2024-07-09 11:03:23,143 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:03:23,143 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:03:23,312 [main] INFO Para_Bank_Page - enter data action is Completed
+2024-07-09 11:03:23,563 [main] INFO Para_Bank_Page - click action is started
+2024-07-09 11:03:23,564 [main] INFO Para_Bank_Page - highlightElement action is started
+2024-07-09 11:03:23,564 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:03:23,564 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:03:23,628 [main] INFO Para_Bank_Page - highlightElement action is Completed
+2024-07-09 11:03:23,628 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:03:23,629 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:03:27,242 [main] INFO Para_Bank_Page - click action is Completed
+2024-07-09 11:17:48,493 [main] INFO Para_Bank_Test - openBrowser action is started
+2024-07-09 11:17:50,616 [main] INFO Para_Bank_Test - Chrome launched successfully
+2024-07-09 11:17:50,617 [main] INFO Para_Bank_Test - Enter the URL action is started
+2024-07-09 11:17:54,972 [main] INFO Para_Bank_Test - https://parabank.parasoft.com/parabank/index.htm opened successfully
+2024-07-09 11:17:55,088 [main] INFO Para_Bank_Page - click action is started
+2024-07-09 11:17:55,090 [main] INFO Para_Bank_Page - highlightElement action is started
+2024-07-09 11:17:55,090 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:17:55,091 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:17:55,153 [main] INFO Para_Bank_Page - highlightElement action is Completed
+2024-07-09 11:17:55,154 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:17:55,155 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:17:56,134 [main] INFO Para_Bank_Page - click action is Completed
+2024-07-09 11:17:56,137 [main] INFO Para_Bank_Page - enter data action is started
+2024-07-09 11:17:56,137 [main] INFO Para_Bank_Page - highlightElement action is started
+2024-07-09 11:17:56,139 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:17:56,140 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:17:56,243 [main] INFO Para_Bank_Page - highlightElement action is Completed
+2024-07-09 11:17:56,245 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:17:56,246 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:17:56,486 [main] INFO Para_Bank_Page - enter data action is Completed
+2024-07-09 11:17:56,486 [main] INFO Para_Bank_Page - enter data action is started
+2024-07-09 11:17:56,487 [main] INFO Para_Bank_Page - highlightElement action is started
+2024-07-09 11:17:56,487 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:17:56,487 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:17:56,539 [main] INFO Para_Bank_Page - highlightElement action is Completed
+2024-07-09 11:17:56,540 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:17:56,540 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:17:56,694 [main] INFO Para_Bank_Page - enter data action is Completed
+2024-07-09 11:17:56,694 [main] INFO Para_Bank_Page - enter data action is started
+2024-07-09 11:17:56,695 [main] INFO Para_Bank_Page - highlightElement action is started
+2024-07-09 11:17:56,695 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:17:56,695 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:17:56,758 [main] INFO Para_Bank_Page - highlightElement action is Completed
+2024-07-09 11:17:56,759 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:17:56,759 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:17:56,918 [main] INFO Para_Bank_Page - enter data action is Completed
+2024-07-09 11:17:56,918 [main] INFO Para_Bank_Page - enter data action is started
+2024-07-09 11:17:56,919 [main] INFO Para_Bank_Page - highlightElement action is started
+2024-07-09 11:17:56,920 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:17:56,920 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:17:56,974 [main] INFO Para_Bank_Page - highlightElement action is Completed
+2024-07-09 11:17:56,975 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:17:56,976 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:17:57,131 [main] INFO Para_Bank_Page - enter data action is Completed
+2024-07-09 11:17:57,132 [main] INFO Para_Bank_Page - enter data action is started
+2024-07-09 11:17:57,132 [main] INFO Para_Bank_Page - highlightElement action is started
+2024-07-09 11:17:57,132 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:17:57,132 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:17:57,210 [main] INFO Para_Bank_Page - highlightElement action is Completed
+2024-07-09 11:17:57,210 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:17:57,210 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:17:57,372 [main] INFO Para_Bank_Page - enter data action is Completed
+2024-07-09 11:17:57,373 [main] INFO Para_Bank_Page - enter data action is started
+2024-07-09 11:17:57,373 [main] INFO Para_Bank_Page - highlightElement action is started
+2024-07-09 11:17:57,373 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:17:57,374 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:17:57,428 [main] INFO Para_Bank_Page - highlightElement action is Completed
+2024-07-09 11:17:57,429 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:17:57,429 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:17:57,599 [main] INFO Para_Bank_Page - enter data action is Completed
+2024-07-09 11:17:57,599 [main] INFO Para_Bank_Page - enter data action is started
+2024-07-09 11:17:57,600 [main] INFO Para_Bank_Page - highlightElement action is started
+2024-07-09 11:17:57,600 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:17:57,600 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:17:57,688 [main] INFO Para_Bank_Page - highlightElement action is Completed
+2024-07-09 11:17:57,688 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:17:57,689 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:17:57,779 [main] INFO Para_Bank_Page - enter data action is Completed
+2024-07-09 11:17:58,087 [main] INFO Para_Bank_Page - click action is started
+2024-07-09 11:17:58,088 [main] INFO Para_Bank_Page - highlightElement action is started
+2024-07-09 11:17:58,088 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:17:58,089 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:17:58,150 [main] INFO Para_Bank_Page - highlightElement action is Completed
+2024-07-09 11:17:58,151 [main] INFO Para_Bank_Page - find element action is started
+2024-07-09 11:17:58,151 [main] INFO Para_Bank_Page - find element action is complted and avialable
+2024-07-09 11:17:58,743 [main] INFO Para_Bank_Page - click action is Completed

@@ -1,0 +1,10 @@
+com.surveillance.utilitiy.GenericKeywordsWithPage.highlightElement(GenericKeywordsWithPage.java:253)evel	2024-07-06 14:01:44 Swap_Login_Page1: highlightElement action is started
+com.surveillance.utilitiy.GenericKeywordsWithPage.elementFind(GenericKeywordsWithPage.java:149)evel	2024-07-06 14:01:44 Swap_Login_Page1: find element action is started
+com.surveillance.utilitiy.GenericKeywordsWithPage.elementFind(GenericKeywordsWithPage.java:153)evel	2024-07-06 14:01:44 Swap_Login_Page1: find element action is complted and avialable
+com.surveillance.utilitiy.GenericKeywordsWithPage.highlightElement(GenericKeywordsWithPage.java:258)evel	2024-07-06 14:01:44 Swap_Login_Page1: highlightElement action is Completed
+com.surveillance.utilitiy.GenericKeywordsWithPage.elementFind(GenericKeywordsWithPage.java:149)evel	2024-07-06 14:01:44 Swap_Login_Page1: find element action is started
+com.surveillance.utilitiy.GenericKeywordsWithPage.elementFind(GenericKeywordsWithPage.java:153)evel	2024-07-06 14:01:44 Swap_Login_Page1: find element action is complted and avialable
+com.surveillance.utilitiy.GenericKeywords.openBrowser(GenericKeywords.java:62)evel	2024-07-06 14:01:45 Swap_Login_Test1: openBrowser action is started
+com.surveillance.utilitiy.GenericKeywords.openBrowser(GenericKeywords.java:107)evel	2024-07-06 14:01:47 Swap_Login_Test1: Chrome launched successfully
+com.surveillance.utilitiy.GenericKeywords.openURL(GenericKeywords.java:220)evel	2024-07-06 14:01:47 Swap_Login_Test1: Enter the URL action is started
+com.surveillance.utilitiy.GenericKeywords.openURL(GenericKeywords.java:222)evel	2024-07-06 14:01:47 Swap_Login_Test1: https://www.saucedemo.com/ opened successfully

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+		<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Regression Suite">
+<test thread-count="10" name="DealerTest">
+	<classes>
+		<class name="com.surveillance.Test.LoginTest"/>
+		<class name="com.surveillance.Test.AddNewUserTest"/>
+		<class name="com.surveillance.Test.CreateNewClientTest"/>
+		<class name="com.surveillance.Test.AdminReportTest"/>
+		<class name="com.surveillance.Test.ArchivesLiveUnitsTest"/>
+		<class name="com.surveillance.Test.CameraLiveUnitTest"/>
+		<class name="com.surveillance.Test.D3CommandCenterTest"/>
+		<class name="com.surveillance.Test.NotificationsTest"/>
+	</classes>
+</test> <!-- Test -->
+</suite> <!-- Suite -->

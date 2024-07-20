@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11343" started-at="2024-07-09T05:47:48Z" finished-at="2024-07-09T05:47:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11343" started-at="2024-07-09T05:47:48Z" finished-at="2024-07-09T05:47:59Z">
+      <class name="Test_Package.Para_Bank_Test">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Test_Package.Para_Bank_Test@6aaa5eb0]" name="setUp" is-config="true" duration-ms="208" started-at="2024-07-09T11:17:48Z" finished-at="2024-07-09T11:17:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="startReport()[pri:0, instance:Test_Package.Para_Bank_Test@6aaa5eb0]" name="startReport" is-config="true" duration-ms="54" started-at="2024-07-09T11:17:48Z" finished-at="2024-07-09T11:17:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:Test_Package.Para_Bank_Test@6aaa5eb0]" name="setup" is-config="true" duration-ms="6489" started-at="2024-07-09T11:17:48Z" finished-at="2024-07-09T11:17:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Para_Bank_Page()[pri:0, instance:Test_Package.Para_Bank_Test@6aaa5eb0]" name="Para_Bank_Page" duration-ms="3770" started-at="2024-07-09T11:17:54Z" finished-at="2024-07-09T11:17:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Para_Bank_Page -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:Test_Package.Para_Bank_Test@6aaa5eb0]" name="getResult" is-config="true" duration-ms="1018" started-at="2024-07-09T11:17:58Z" finished-at="2024-07-09T11:17:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Para_Bank_Page status=SUCCESS method=Para_Bank_Test.Para_Bank_Page()[pri:0, instance:Test_Package.Para_Bank_Test@6aaa5eb0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:Test_Package.Para_Bank_Test@6aaa5eb0]" name="endReport" is-config="true" duration-ms="273" started-at="2024-07-09T11:17:59Z" finished-at="2024-07-09T11:18:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- Test_Package.Para_Bank_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

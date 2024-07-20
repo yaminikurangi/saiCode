@@ -1,0 +1,4 @@
+com.surveillance.utilitiy.GenericKeywordsWithPage.enterData(GenericKeywordsWithPage.java:208)evel	2024-07-09 10:54:13 Para_Bank_Page: enter data action is started
+com.surveillance.utilitiy.GenericKeywordsWithPage.highlightElement(GenericKeywordsWithPage.java:253)evel	2024-07-09 10:54:13 Para_Bank_Page: highlightElement action is started
+com.surveillance.utilitiy.GenericKeywordsWithPage.elementFind(GenericKeywordsWithPage.java:149)evel	2024-07-09 10:54:13 Para_Bank_Page: find element action is started
+com.surveillance.utilitiy.GenericKeywordsWithPage.elementFind(GenericKeywordsWithPage.java:153)evel	2024-07-09 10:54:13 Para_Bank_Page: find element action is complted and avialable
